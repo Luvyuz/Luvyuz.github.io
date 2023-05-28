@@ -1,0 +1,57 @@
+La storia di Arduino è legata al campo dell'elettronica e della programmazione. Arduino è una piattaforma open-source basata su microcontrollori che consente a persone di ogni livello di esperienza di creare progetti interattivi e dispositivi elettronici.
+
+La storia di Arduino ha inizio nel 2003 presso l'Interaction Design Institute di Ivrea, in Italia. Un gruppo di studenti, composto da Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, David Mellis e Nicholas Zambetti, insieme a Gianluca Martino, iniziò a lavorare su un progetto di prototipazione rapida per gli studenti di design.
+
+I fondatori di Arduino desideravano creare una piattaforma aperta e accessibile che potesse essere utilizzata da persone con conoscenze tecniche di base per realizzare progetti elettronici. L'obiettivo era rendere l'elettronica e la programmazione più accessibili e democratizzare la creazione di dispositivi interattivi.
+
+Nel 2005, il team di sviluppo di Arduino ha lanciato la prima scheda Arduino, chiamata "Arduino NG" (New Generation). La scheda era basata su un microcontrollore Atmel AVR e utilizzava un ambiente di sviluppo integrato (IDE) per la programmazione.
+
+Il successo di Arduino è cresciuto rapidamente grazie alla sua facilità d'uso, alla documentazione disponibile e alla comunità attiva di utenti e sviluppatori che si è formata intorno ad esso. Gli utenti di Arduino hanno creato una vasta gamma di progetti, come robot, controllori di luci, strumenti musicali, dispositivi di monitoraggio ambientale e molto altro ancora.
+
+Arduino ha avuto un impatto significativo nell'ambito dell'educazione tecnica, incoraggiando studenti e appassionati di tutte le età a esplorare l'elettronica e la programmazione. È diventato uno strumento comune nelle scuole e nelle università di tutto il mondo.
+
+Nel corso degli anni, sono state sviluppate diverse varianti di schede Arduino per adattarsi alle diverse esigenze e applicazioni. Ad esempio, ci sono schede con connettività Wi-Fi o Bluetooth integrate, schede più piccole per progetti compatti e schede più potenti con processori più avanzati.
+
+Oggi, Arduino è diventato un punto di riferimento nel campo dell'elettronica open-source, con una vasta comunità di utenti, sviluppatori e maker che condividono progetti, risorse e conoscenze online. Arduino ha influenzato profondamente il modo in cui molte persone pensano all'elettronica e alla programmazione, aprendo nuove possibilità creative e promuovendo l'innovazione tecnologica accessibile a tutti.
+
+
+
+///
+
+La storia di Olivetti è legata alla storia dell'industria italiana e all'innovazione nel campo delle macchine per scrivere, delle calcolatrici e dell'elettronica. Olivetti è stata una delle aziende più importanti e influenti nell'ambito dell'informatica e dell'automazione negli anni '50, '60 e '70.
+
+L'azienda Olivetti fu fondata nel 1908 da Camillo Olivetti a Ivrea, una città nel nord Italia. Inizialmente, Olivetti produceva principalmente macchine per scrivere meccaniche. L'obiettivo di Camillo Olivetti era quello di creare macchine per scrivere di alta qualità che potessero essere utilizzate da tutti, compresi gli operatori non professionisti.
+
+Negli anni '30, Adriano Olivetti, figlio di Camillo, divenne il presidente dell'azienda e portò avanti una visione innovativa. Adriano credeva nell'importanza dell'ergonomia e del design nel settore delle macchine per scrivere. Ha iniziato a collaborare con importanti designer e architetti dell'epoca, come Marcello Nizzoli e Luigi Figini, per creare macchine per scrivere dal design elegante e funzionale.
+
+Negli anni '50, Olivetti si affermò come un'azienda leader nel campo dell'informatica e dell'automazione. Introdusse nuove tecnologie come le prime calcolatrici elettroniche, i primi computer e i primi terminali per l'elaborazione dati. Olivetti ha giocato un ruolo fondamentale nello sviluppo dell'industria informatica in Italia.
+
+Uno dei prodotti più iconici di Olivetti è la macchina per scrivere Olivetti Lettera 22, introdotta nel 1949. Questa macchina per scrivere portatile era compatta, leggera e dotata di un design moderno ed elegante. La Lettera 22 divenne molto popolare e contribuì a diffondere il marchio Olivetti in tutto il mondo.
+
+Negli anni '60, Olivetti continuò a espandersi e a innovare nel campo dell'informatica. Nel 1964, Olivetti introdusse il Programma 101, considerato il primo personal computer della storia. Questo computer desktop portatile era rivoluzionario per l'epoca e fu un successo commerciale.
+
+Tuttavia, negli anni '80, l'azienda Olivetti iniziò a incontrare difficoltà finanziarie a causa di una gestione non ottimale e della crescente concorrenza internazionale. Nel corso degli anni successivi, Olivetti fu coinvolta in diversi tentativi di ristrutturazione e di acquisizione da parte di altre società.
+
+Nonostante le difficoltà, il marchio Olivetti è rimasto un simbolo di innovazione e design italiano. Nel corso degli anni, Olivetti ha continuato a produrre prodotti nel campo dell'informatica e delle telecomunicazioni, come computer, stampanti e fax. Oggi, Olivetti fa parte del gruppo Telecom Italia e si concentra principalmente sulle soluzioni di stampa e documentazione.
+
+La storia di Olivetti è un esempio di come un'azienda italiana abbia contribuito all'evoluzione dell'industria tecnologica e all'immagine del design italiano nel mondo. Il marchio Olivetti rappresenta ancora un'icona di stile e innovazione nel campo dell'elettronica e dell'informatica.
+
+
+///
+La storia di Ivrea, una città situata nella regione del Piemonte, nel nord Italia, risale a tempi antichi. La zona in cui sorge la città è stata abitata fin dall'epoca preistorica, come dimostrano i ritrovamenti archeologici. Tuttavia, la storia di Ivrea come insediamento vero e proprio inizia nel periodo romano.
+
+Durante il periodo romano, Ivrea era conosciuta come Eporedia e divenne una città importante lungo la Via Augusta, una delle principali strade romane. La città prosperò grazie alla sua posizione strategica e al commercio lungo la via. Ivrea fu anche sede di una diocesi nel IV secolo.
+
+Nel corso dei secoli successivi, Ivrea passò sotto il controllo di vari signori e governanti, tra cui i Longobardi nel VI secolo e i Franchi nel IX secolo. Nel X secolo, Ivrea divenne la residenza dei marchesi d'Ivrea, una potente famiglia nobile. Il più famoso tra i marchesi d'Ivrea fu Arduino d'Ivrea, che fu eletto re d'Italia nel 1002.
+
+Durante il medioevo, Ivrea continuò a crescere in importanza e divenne un importante centro politico ed economico. Nel corso dei secoli, la città passò sotto il controllo di varie dinastie e casate nobiliari, inclusi i Savoia, i Visconti e i Borbone. Ivrea fu coinvolta in molte battaglie e conflitti durante questo periodo.
+
+Un evento significativo nella storia di Ivrea è la celebrazione del Carnevale di Ivrea, che ha origini antiche e risale almeno al XIII secolo. Il Carnevale di Ivrea è famoso per la "Battaglia delle Arance", in cui le persone si dividono in squadre e si scagliano arance l'una contro l'altra per rappresentare una rivolta contro un tiranno locale.
+
+Nel corso dei secoli successivi, Ivrea fu coinvolta nel risorgimento italiano e nel processo di unificazione nazionale. Nel XIX secolo, la città divenne un importante centro industriale grazie allo sviluppo dell'industria tessile e meccanica. Ivrea è stata sede di importanti fabbriche, tra cui la celebre Olivetti, un'azienda di macchine per scrivere e calcolatrici che ha contribuito allo sviluppo dell'elettronica italiana.
+
+Negli ultimi decenni, Ivrea ha subito trasformazioni urbanistiche e sociali. Nel 2018, è stata riconosciuta come Patrimonio dell'Umanità dall'UNESCO per la sua architettura industriale e il suo paesaggio culturale. Oggi, Ivrea è una vivace città con una ricca storia e un'economia diversificata, che attira visitatori da tutto il mondo.
+
+
+
+
