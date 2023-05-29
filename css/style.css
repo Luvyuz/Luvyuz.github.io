@@ -3,10 +3,6 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
-    background-image: url("img/Sfondo.avif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
 }
 
 .Ivrea-Icon {
@@ -37,9 +33,11 @@ body {
     font-family: 'Pangolin', cursive;
     font-size: 22px;
 }
+
 .details-link{
     float: right;
 }
+
 .navbar a {
     color: #fff;
     text-decoration: none;
@@ -60,16 +58,19 @@ body {
     margin-bottom: 40px;
 }
 .section-1 {
-    color: red;
-    background-image: url("img/ivrea.jpg");
+    color: blue;
+    background-image: url("/img/ivrea.jpg");
+    background-size: cover;
 }
 
 .section-2 {
-    background-image: url("img/olivetti.png");
+    background-image: url("/img/olivetti.png");
+    background-attachment: cover;
 }
 
 .section-3 {
-    background-image: url("img/arduino.png");
+    background-image: url("/img/arduino.png");
+    background-size: cover;
 }
 .section h2 {
     margin-bottom: 30px;
