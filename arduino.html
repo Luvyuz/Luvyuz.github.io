@@ -5,6 +5,27 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+<style>
+    .section {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 40px;
+        font-style: italic;
+        color: white;
+    }
+    .section-text {
+        flex: 0 0 60%;
+        padding: 20px;
+    }
+    .section-image img {
+        max-width: 100%;
+        height: auto;
+    }
+    body {
+        background-image: url("img/Arduino/sfondoArduino.jpg");
+    }
+</style>
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-end">
         <a class="navbar-brand" href="index.html">
@@ -28,36 +49,43 @@
             </ul>
         </div>
     </nav>
-
-    <div class="jumbotron">
-        <h1 class="subTitle">Esplora Ivrea e la sua storia!</h1>
-        <p class="description">Culla di idee rivoluzionarie!</p>
-    </div>
-    <div class="spacer"></div>
     <div class="container">
-        <div class="section section-1">
-            <h2 class="section-title">Storia di Ivrea</h2>
-            <p>Scopri la storia di Ivrea!</p>
-            <a href="ivrea.html" class="details-link">Dettagli</a>
+        <div class="section">
+            <div class="section-text">
+                <h2 class="section-title">La storia di Arduino</h2>
+                <p>La storia di Arduino è legata al campo dell'elettronica e della programmazione. Arduino è una piattaforma open-source basata su microcontrollori che consente a persone di ogni livello di esperienza di creare progetti interattivi e dispositivi elettronici.</p>
+            </div>
+            <div class="section-image">
+                <img src="/img/Arduino/ArduinoPrototype1.jpg">
+            </div>
         </div>
     
-        <div class="section section-2">
-            <h2 class="section-title">Storia dell'Olivetti</h2>
-            <p>Scopri la storia dell'Olivetti!</p>
-            <a href="olivetti.html" class="details-link">Dettagli</a>
+        <div class="section section-right">
+            <div class="section-image">
+                <img src="/img/Arduino/arduino_team1.png">
+            </div>
+            <div class="section-text">
+                <h2 class="section-title">I fondatori di Arduino</h2>
+                <p>La storia di Arduino ha inizio nel 2003 presso l'Interaction Design Institute di Ivrea, in Italia. Un gruppo di studenti, composto da Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, David Mellis e Nicholas Zambetti, insieme a Gianluca Martino, iniziò a lavorare su un progetto di prototipazione rapida per gli studenti di design.</p>
+            </div>
         </div>
     
-        <div class="section section-3">
-            <h2 class="section-title">Storia di Arduino</h2>
-            <p>Scopri la storia di Arduino!</p>
-            <a href="arduino.html" class="details-link">Dettagli</a>
+        <div class="section">
+            <div class="section-text">
+                <h2 class="section-title">Il successo di Arduino</h2>
+                <p>Nel 2005, il team di sviluppo di Arduino ha lanciato la prima scheda Arduino, chiamata "Arduino NG" (New Generation). La scheda era basata su un microcontrollore Atmel AVR e utilizzava un ambiente di sviluppo integrato (IDE) per la programmazione.</p>
+            </div>
+            <div class="section-image">
+                <img src="/img/Arduino/ArduinoNG-240.jpg">
+            </div>
         </div>
     </div>
+
     <div class="closing-section"></div>
     <div class="github-section">
         <div class="info-section">
             <div class="name-section">
-                <h3>Nome e Cognome</h3>
+                <h3>Wu YiJun</h3>
             </div>
             <div class="github-link">
                 <a href="https://github.com/Luvyuz/Sito-Web" target="GitHub">

@@ -3,6 +3,14 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
+    background-image: url("/img/ivrea.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 110%;
+    background-color: black;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
 }
 
 .Ivrea-Icon {
@@ -19,6 +27,10 @@ body {
     font-style: italic;
     font-weight: bold;
 }
+.jumbotron {
+    background-image: url("/img/ivrea.jpg");
+    background-size: 150%;
+}
 .title {
     font-size: 50px;
     font-style: italic;
@@ -33,9 +45,17 @@ body {
     font-family: 'Pangolin', cursive;
     font-size: 22px;
 }
-
+@keyframes rgb {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+}
 .details-link{
     float: right;
+    animation-name: rgb;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
 
 .navbar a {
@@ -43,7 +63,6 @@ body {
     text-decoration: none;
     margin-left: 10px;
 }
-
 .container2 {
     padding: 100px;
     background-color: #e9ecef;
@@ -54,33 +73,47 @@ body {
 
 .section {
     padding: 50px;
-    background: #FFF;
+    background-color: rgba(255, 255, 255, 0.2);
     margin-bottom: 40px;
 }
 .section-1 {
-    color: blue;
-    background-image: url("/img/ivrea.jpg");
-    background-size: cover;
+    background-image: url("/img/ivrea1.webp");
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .section-2 {
-    background-image: url("/img/olivetti.png");
-    background-attachment: cover;
+    background-image: url("/img/storia.avif");
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .section-3 {
     background-image: url("/img/arduino.png");
-    background-size: cover;
+    background-size: contain;
+    background-size: 50%;
+    background-position-y: 88%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
-.section h2 {
+.section-title {
+    color:blanchedalmond;
     margin-bottom: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: auto;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 
 .section p {
-    font-size: 18px;
+    color:white;
+    font-size: 30px;
     line-height: 1.5;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
 }
 
 .closing-section {

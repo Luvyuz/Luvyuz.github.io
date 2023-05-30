@@ -5,6 +5,33 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+<style>
+    .section {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 40px;
+        font-style: italic;
+        color: black;
+    }
+    .section-text {
+        flex: 0 0 60%;
+        padding: 20px;
+    }
+    .section p {
+        color: rgb(236, 147, 14);
+    }
+    .section-title {
+        color: rgb(27, 121, 15);
+    }
+    .section-image img {
+        max-width: 100%;
+        height: auto;
+    }
+    body {
+        background-image: url("/img/Ivrea/Ivrea.jpg");
+    }
+</style>
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark justify-content-end">
         <a class="navbar-brand" href="index.html">
@@ -28,36 +55,53 @@
             </ul>
         </div>
     </nav>
-
-    <div class="jumbotron">
-        <h1 class="subTitle">Esplora Ivrea e la sua storia!</h1>
-        <p class="description">Culla di idee rivoluzionarie!</p>
-    </div>
-    <div class="spacer"></div>
     <div class="container">
-        <div class="section section-1">
-            <h2 class="section-title">Storia di Ivrea</h2>
-            <p>Scopri la storia di Ivrea!</p>
-            <a href="ivrea.html" class="details-link">Dettagli</a>
+        <div class="section">
+            <div class="section-text">
+                <h2 class="section-title">La storia di Ivrea</h2>
+                <p>La storia di Ivrea, una città situata nella regione del Piemonte, nel nord Italia, risale a tempi antichi. La zona in cui sorge la città è stata abitata fin dall'epoca preistorica, come dimostrano i ritrovamenti archeologici. Tuttavia, la storia di Ivrea come insediamento vero e proprio inizia nel periodo romano.</p>
+            </div>
+            <div class="section-image">
+                <img src="/img/Ivrea/Posizione.jpg">
+            </div>
         </div>
     
-        <div class="section section-2">
-            <h2 class="section-title">Storia dell'Olivetti</h2>
-            <p>Scopri la storia dell'Olivetti!</p>
-            <a href="olivetti.html" class="details-link">Dettagli</a>
+        <div class="section section-right">
+            <div class="section-image">
+                <img src="/img/Ivrea/eporedia.jpg" >
+            </div>
+            <div class="section-text">
+                <h2 class="section-title">Epoca romana e successivi governanti</h2>
+                <p>Durante il periodo romano, Ivrea era conosciuta come Eporedia e divenne una città importante lungo la Via Augusta, una delle principali strade romane. La città prosperò grazie alla sua posizione strategica e al commercio lungo la via. Ivrea passò sotto il controllo di vari signori e governanti nel corso dei secoli, tra cui i Longobardi nel VI secolo e i Franchi nel IX secolo.</p>
+            </div>
         </div>
     
-        <div class="section section-3">
-            <h2 class="section-title">Storia di Arduino</h2>
-            <p>Scopri la storia di Arduino!</p>
-            <a href="arduino.html" class="details-link">Dettagli</a>
+        <div class="section">
+            <div class="section-text">
+                <h2 class="section-title">Ivrea nel medioevo</h2>
+                <p>Durante il medioevo, Ivrea continuò a crescere in importanza e divenne un importante centro politico ed economico. La città passò sotto il controllo di varie dinastie e casate nobiliari, inclusi i Savoia, i Visconti e i Borbone. Ivrea fu coinvolta in molte battaglie e conflitti durante questo periodo.</p>
+            </div>
+            <div class="section-image">
+                <img src="/img/Ivrea/savoia.png">
+            </div>
+        </div>
+    
+        <div class="section section-right">
+            <div class="section-image">
+                <img src="/img/Ivrea/Carnevale-Ivrea.avif">
+            </div>
+            <div class="section-text">
+                <h2 class="section-title">Il Carnevale di Ivrea</h2>
+                <p>Un evento significativo nella storia di Ivrea è la celebrazione del Carnevale di Ivrea, che ha origini antiche e risale almeno al XIII secolo. Il Carnevale di Ivrea è famoso per la "Battaglia delle Arance", in cui le persone si dividono in squadre e si scagliano arance l'una contro l'altra per rappresentare una rivolta contro un tiranno locale.</p>
+            </div>
         </div>
     </div>
+
     <div class="closing-section"></div>
     <div class="github-section">
         <div class="info-section">
             <div class="name-section">
-                <h3>Nome e Cognome</h3>
+                <h3>Wu YiJun</h3>
             </div>
             <div class="github-link">
                 <a href="https://github.com/Luvyuz/Sito-Web" target="GitHub">
